@@ -1,0 +1,10 @@
+ Basics
+ 1) add key and base from https://openweathermap.org/current
+ 2) call the api
+   * save this data in new state
+ 3) select part in return
+   * have value and onChange func --> setState(e.target.value)
+   * map over cities and return option (add key and value)
+4) use Effect() change when selectedity changes
+5) return time -pass the data that we have from API
+ make if condition ? ... : ""
